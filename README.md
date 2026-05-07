@@ -29,7 +29,7 @@ It uses **PyMuPDF** for accurate PDF parsing and **python-docx** for Word file p
 ![Open File](screenshots/open_file.png)
 
 ### Export Result
-![Export](screenshots/export.png)
+![Export](screenshots/save_export3.png)
 
 ---
 
